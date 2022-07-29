@@ -28,6 +28,7 @@
 - Visuals for Each Pattern  `Planned`
 - Searchable Grid of All Patterns Organized by Topic  `Planned`
 - Code Components for Each Pattern  `Planned`
+- Pattern Validation Code for Each Pattern  `Planned`
 
 ## Install 🛠
 
