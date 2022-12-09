@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "dictionaryofpatterns",
-  "version": "1.0.180",
+  "version": "1.0.181",
   "description": "Searchable Dictionary Of Standard Patterns For Software Development",
   "author": "Intellibus Labs <labs@intellibus.com> (https://intellibus.dev/)",
   "license": "MIT",
